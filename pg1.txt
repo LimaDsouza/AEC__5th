@@ -1,2 +1,3 @@
 heyy my first git program
 now i made chnages to second program
+changes after merging for stash one
