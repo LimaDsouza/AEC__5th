@@ -1,1 +1,2 @@
 heyy my first git program
+now i made chnages to second program
